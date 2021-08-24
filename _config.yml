@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: z.t.rui.shangyu@gmail.com
 description: "一个中学生|ztr的博客"
 keyword: "ztr，turtles，诸天瑞"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://z-t-rui.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -79,7 +79,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "一不小心就走上了code的不归路......"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/datouzhao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
