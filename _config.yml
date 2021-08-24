@@ -102,32 +102,12 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
+    # {
     #     title: "Su",
     #     href: "http://su.gallery/"
-    # },{
-        title: "乱序（Midare）",
-        href: "http://mida.re/"
-    },{
-        title: "Sherry Woo",
-        href: "https://sherrywoo.me/"
-    },{
-        title: "Kun Qian",
-        href: "http://kunq.me"
-    },{
-        title: "Ebn Zhang",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+    # }
+    {
+          title: "朱元桢",
+          href: "https://user.qzone.qq.com/3440814526?ADUIN=2243496855&ADSESSION=1629770953&ADTAG=CLIENT.QQ.5827_FriendTip.0&ADPUBNO=27151&source=namecardhoverstar"
     }
 ]
