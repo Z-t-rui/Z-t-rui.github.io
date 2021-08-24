@@ -5,3 +5,4 @@ Hi，我是ztr,在浙江的一个普通学生
 可以添加我的QQ：2243496855
 并且备注,
 Thank you!
+我的邮箱：z.t.rui.shangyu@gmail.com
