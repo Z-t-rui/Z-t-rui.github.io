@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<meta charset="UTF-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<link rel="stylesheet" href="login.css">
+			<title>Document</title>
+		</head>
+	<body>
+		<form action="" class="login">
+			<p>也许你能找到我的小站，但你不知道密码</p>
+			<input type="text" placeholder="Username" id="username">
+			<input type="password" placeholder="Password" id="password">
+			<input type="submit" class="btn" value="Sign in"onclick="check();">
+		</form>   
+	</body>
+	<script type="text/javascript">
+		function check(){
+			var u = document.getElementById("username");
+			var p = document.getElementById("password");
+			if(u.value==""){
+				alert("你的名字呢？");
+			}
+			else if(p.value=="")
+			{
+				alert("不会有人以为密码是空吧？")
+			}
+			else if(u.value=="Velvet"&&p.value=="yourjsgood")
+			{
+				alert("欢迎!");
+				window.location.href="fuck.html";
+			}
+			else{
+				alert("!!错误的密码也想糊弄我");
+			}
+		}
+	</script>
+</html>
